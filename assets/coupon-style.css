@@ -1,0 +1,35 @@
+.dokan-form-horizontal .dokan-form-group {
+    margin-bottom: 18px;
+}
+.dokan-form-horizontal label {
+    font-weight: 600;
+}
+.dokan-form-horizontal input[type="text"],
+.dokan-form-horizontal input[type="number"],
+.dokan-form-horizontal input[type="date"],
+.dokan-form-horizontal select {
+    width: 100%;
+    max-width: 320px;
+    padding: 8px 10px;
+    border: 1px solid #d1d5db;
+    border-radius: 4px;
+    background: #fafbfc;
+    font-size: 15px;
+}
+.dokan-form-horizontal input[type="checkbox"] {
+    transform: scale(1.2);
+    margin-right: 8px;
+}
+.dokan-btn-theme {
+    background: #7c3aed;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    padding: 10px 28px;
+    font-weight: 600;
+    font-size: 16px;
+    cursor: pointer;
+}
+.dokan-btn-theme:hover {
+    background: #5b21b6;
+}
